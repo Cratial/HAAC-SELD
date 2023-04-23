@@ -32,7 +32,7 @@ The goal of sound event localization and detection (SELD) is to detect the occur
 
 
 ## Usage 
-Source code are coming soon...
+Source code is coming soon...
 
 
 
