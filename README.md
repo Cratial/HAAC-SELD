@@ -1,7 +1,7 @@
 # HAAC: Hierarchical Audio Augmentation Chain for ACCDOA Described Sound Event Localization and Detection
 
 
-This is a PyTorch implementation of our submitted manuscript [HAAC: Hierarchical Audio Augmentation Chain for ACCDOA Described Sound Event Localization and Detection](https://www.sciencedirect.com/science/article/pii/S0950705123000813).
+This is a PyTorch implementation of our submitted manuscript [HAAC: Hierarchical Audio Augmentation Chain for ACCDOA Described Sound Event Localization and Detection](https://doi.org/10.1016/j.apacoust.2023.109541).
 
 
 **Abstract**
